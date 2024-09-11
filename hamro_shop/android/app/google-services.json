@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252564467226",
+    "project_id": "portfolio-9c379",
+    "storage_bucket": "portfolio-9c379.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252564467226:android:01d701e6b3dcdf0fb86ba3",
+        "android_client_info": {
+          "package_name": "com.example.hamro_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChlD2-i-hhz8myHkMB3FsmC1WnO4O7bXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
